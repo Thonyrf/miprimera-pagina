@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+ol, ul{
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+header{
+    color: white;
+    display: flex;
+    background-color: rgb(189, 85, 0);
+    align-items: center;
+    justify-content: space-between;
+    font-size: larger;
+    border-radius: 10px 100px / 120px;
+}
+header nav ul {
+    color: white;
+    font-family: reallocated;
+    src: url(Reallocated.ttf);
+    font-size: larger;
+    display: flex;
+    gap: 10.0em;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+}
+a{
+    margin: o;
+}
